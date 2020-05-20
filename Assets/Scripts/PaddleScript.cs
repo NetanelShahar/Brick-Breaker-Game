@@ -6,6 +6,7 @@ public class PaddleScript : MonoBehaviour
 {
     public Rigidbody2D rb;
     public float speed;
+    public float maxX;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,6 +27,10 @@ public class PaddleScript : MonoBehaviour
         }
         else 
         Stop();
+
+        Vector3 pos=transform.position;
+        pos.x=Mathf.Clamp(pos.x,-maxX,maxX);
+        transform.position=pos;
     }
 
     void MoveLeft(){
