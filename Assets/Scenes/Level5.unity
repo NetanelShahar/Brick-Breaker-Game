@@ -1482,7 +1482,7 @@ MonoBehaviour:
   rb: {fileID: 1551454581}
   ballForce: 200
   maxBballScore: 8
-  levelName: End
+  levelName: Succsce
 --- !u!50 &1551454581
 Rigidbody2D:
   serializedVersion: 4
