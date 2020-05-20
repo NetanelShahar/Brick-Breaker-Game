@@ -551,7 +551,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 573098281}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 2.1, z: 0}
+  m_LocalPosition: {x: 0, y: 24.6, z: 0}
   m_LocalScale: {x: 0.9795666, y: 1.5305752, z: 1}
   m_Children: []
   m_Father: {fileID: 1829697366}
@@ -670,10 +670,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 353852030690645384, guid: 3cef5c1d9314d44409644b0dab981024,
+        type: 3}
+      propertyPath: hitsLimit
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 353852030690645387, guid: 3cef5c1d9314d44409644b0dab981024,
         type: 3}
       propertyPath: m_Name
-      value: Green-Break (1)
+      value: Green-Brick (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3cef5c1d9314d44409644b0dab981024, type: 3}
@@ -962,7 +967,7 @@ PrefabInstance:
     - target: {fileID: 6826152080366093209, guid: 22ed3fa97e920ce4b8b531bd2e157745,
         type: 3}
       propertyPath: m_Name
-      value: Blue-Break (1)
+      value: Blue-Brick (1)
       objectReference: {fileID: 0}
     - target: {fileID: 6826152080366093213, guid: 22ed3fa97e920ce4b8b531bd2e157745,
         type: 3}
@@ -1019,6 +1024,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6826152080366093214, guid: 22ed3fa97e920ce4b8b531bd2e157745,
+        type: 3}
+      propertyPath: hitsLimit
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22ed3fa97e920ce4b8b531bd2e157745, type: 3}
 --- !u!1001 &2059120840
@@ -1031,7 +1041,12 @@ PrefabInstance:
     - target: {fileID: 8703165499912955024, guid: daa0695fbc308d141a5fce88b220dfef,
         type: 3}
       propertyPath: m_Name
-      value: Red-Break (1)
+      value: Red-Brick (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8703165499912955025, guid: daa0695fbc308d141a5fce88b220dfef,
+        type: 3}
+      propertyPath: hitsLimit
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8703165499912955028, guid: daa0695fbc308d141a5fce88b220dfef,
         type: 3}
@@ -1280,10 +1295,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 353852030690645384, guid: 3cef5c1d9314d44409644b0dab981024,
+        type: 3}
+      propertyPath: hitsLimit
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 353852030690645387, guid: 3cef5c1d9314d44409644b0dab981024,
         type: 3}
       propertyPath: m_Name
-      value: Green-Break
+      value: Green-Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3cef5c1d9314d44409644b0dab981024, type: 3}
@@ -1297,7 +1317,7 @@ PrefabInstance:
     - target: {fileID: 6826152080366093209, guid: 22ed3fa97e920ce4b8b531bd2e157745,
         type: 3}
       propertyPath: m_Name
-      value: Blue-Break
+      value: Blue-Brick
       objectReference: {fileID: 0}
     - target: {fileID: 6826152080366093213, guid: 22ed3fa97e920ce4b8b531bd2e157745,
         type: 3}
@@ -1354,6 +1374,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6826152080366093214, guid: 22ed3fa97e920ce4b8b531bd2e157745,
+        type: 3}
+      propertyPath: hitsLimit
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22ed3fa97e920ce4b8b531bd2e157745, type: 3}
 --- !u!1001 &8703165499778882858
@@ -1366,7 +1391,12 @@ PrefabInstance:
     - target: {fileID: 8703165499912955024, guid: daa0695fbc308d141a5fce88b220dfef,
         type: 3}
       propertyPath: m_Name
-      value: Red-Break
+      value: Red-Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 8703165499912955025, guid: daa0695fbc308d141a5fce88b220dfef,
+        type: 3}
+      propertyPath: hitsLimit
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8703165499912955028, guid: daa0695fbc308d141a5fce88b220dfef,
         type: 3}
