@@ -280,11 +280,34 @@ PrefabInstance:
       propertyPath: m_Name
       value: Red-Brick
       objectReference: {fileID: 0}
+    - target: {fileID: 8703165499912955024, guid: daa0695fbc308d141a5fce88b220dfef,
+        type: 3}
+      propertyPath: m_TagString
+      value: Red-brick
+      objectReference: {fileID: 0}
     - target: {fileID: 8703165499912955025, guid: daa0695fbc308d141a5fce88b220dfef,
         type: 3}
       propertyPath: hitsLimit
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 8703165499912955025, guid: daa0695fbc308d141a5fce88b220dfef,
+        type: 3}
+      propertyPath: BrokenGreen
+      value: 
+      objectReference: {fileID: 21300000, guid: 43c1c320f4ed07f48aa79d217c6166e8,
+        type: 3}
+    - target: {fileID: 8703165499912955025, guid: daa0695fbc308d141a5fce88b220dfef,
+        type: 3}
+      propertyPath: BrokenBlue
+      value: 
+      objectReference: {fileID: 21300000, guid: 678843147fb6bf34eb9cecd9d22f9968,
+        type: 3}
+    - target: {fileID: 8703165499912955025, guid: daa0695fbc308d141a5fce88b220dfef,
+        type: 3}
+      propertyPath: BrokenRed
+      value: 
+      objectReference: {fileID: 21300000, guid: 8339ad94ebe57a240828ff8fa42de3c8,
+        type: 3}
     - target: {fileID: 8703165499912955028, guid: daa0695fbc308d141a5fce88b220dfef,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -758,6 +781,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue-Brick
       objectReference: {fileID: 0}
+    - target: {fileID: 6826152080366093209, guid: 22ed3fa97e920ce4b8b531bd2e157745,
+        type: 3}
+      propertyPath: m_TagString
+      value: Blue-Brick
+      objectReference: {fileID: 0}
     - target: {fileID: 6826152080366093213, guid: 22ed3fa97e920ce4b8b531bd2e157745,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -818,6 +846,24 @@ PrefabInstance:
       propertyPath: hitsLimit
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6826152080366093214, guid: 22ed3fa97e920ce4b8b531bd2e157745,
+        type: 3}
+      propertyPath: BrokenGreen
+      value: 
+      objectReference: {fileID: 21300000, guid: 43c1c320f4ed07f48aa79d217c6166e8,
+        type: 3}
+    - target: {fileID: 6826152080366093214, guid: 22ed3fa97e920ce4b8b531bd2e157745,
+        type: 3}
+      propertyPath: BrokenBlue
+      value: 
+      objectReference: {fileID: 21300000, guid: 678843147fb6bf34eb9cecd9d22f9968,
+        type: 3}
+    - target: {fileID: 6826152080366093214, guid: 22ed3fa97e920ce4b8b531bd2e157745,
+        type: 3}
+      propertyPath: BrokenRed
+      value: 
+      objectReference: {fileID: 21300000, guid: 8339ad94ebe57a240828ff8fa42de3c8,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22ed3fa97e920ce4b8b531bd2e157745, type: 3}
 --- !u!1001 &1376008880
@@ -832,11 +878,34 @@ PrefabInstance:
       propertyPath: m_Name
       value: Red-Brick (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8703165499912955024, guid: daa0695fbc308d141a5fce88b220dfef,
+        type: 3}
+      propertyPath: m_TagString
+      value: Red-brick
+      objectReference: {fileID: 0}
     - target: {fileID: 8703165499912955025, guid: daa0695fbc308d141a5fce88b220dfef,
         type: 3}
       propertyPath: hitsLimit
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 8703165499912955025, guid: daa0695fbc308d141a5fce88b220dfef,
+        type: 3}
+      propertyPath: BrokenGreen
+      value: 
+      objectReference: {fileID: 21300000, guid: 43c1c320f4ed07f48aa79d217c6166e8,
+        type: 3}
+    - target: {fileID: 8703165499912955025, guid: daa0695fbc308d141a5fce88b220dfef,
+        type: 3}
+      propertyPath: BrokenBlue
+      value: 
+      objectReference: {fileID: 21300000, guid: 678843147fb6bf34eb9cecd9d22f9968,
+        type: 3}
+    - target: {fileID: 8703165499912955025, guid: daa0695fbc308d141a5fce88b220dfef,
+        type: 3}
+      propertyPath: BrokenRed
+      value: 
+      objectReference: {fileID: 21300000, guid: 8339ad94ebe57a240828ff8fa42de3c8,
+        type: 3}
     - target: {fileID: 8703165499912955028, guid: daa0695fbc308d141a5fce88b220dfef,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1089,10 +1158,33 @@ PrefabInstance:
       propertyPath: hitsLimit
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 353852030690645384, guid: 3cef5c1d9314d44409644b0dab981024,
+        type: 3}
+      propertyPath: BrokenGreen
+      value: 
+      objectReference: {fileID: 21300000, guid: 43c1c320f4ed07f48aa79d217c6166e8,
+        type: 3}
+    - target: {fileID: 353852030690645384, guid: 3cef5c1d9314d44409644b0dab981024,
+        type: 3}
+      propertyPath: BrokenBlue
+      value: 
+      objectReference: {fileID: 21300000, guid: 678843147fb6bf34eb9cecd9d22f9968,
+        type: 3}
+    - target: {fileID: 353852030690645384, guid: 3cef5c1d9314d44409644b0dab981024,
+        type: 3}
+      propertyPath: BrokenRed
+      value: 
+      objectReference: {fileID: 21300000, guid: 8339ad94ebe57a240828ff8fa42de3c8,
+        type: 3}
     - target: {fileID: 353852030690645387, guid: 3cef5c1d9314d44409644b0dab981024,
         type: 3}
       propertyPath: m_Name
       value: Green-Brick (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 353852030690645387, guid: 3cef5c1d9314d44409644b0dab981024,
+        type: 3}
+      propertyPath: m_TagString
+      value: Green-Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3cef5c1d9314d44409644b0dab981024, type: 3}
@@ -1374,9 +1466,32 @@ PrefabInstance:
       propertyPath: hitsLimit
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 353852030690645384, guid: 3cef5c1d9314d44409644b0dab981024,
+        type: 3}
+      propertyPath: BrokenGreen
+      value: 
+      objectReference: {fileID: 21300000, guid: 43c1c320f4ed07f48aa79d217c6166e8,
+        type: 3}
+    - target: {fileID: 353852030690645384, guid: 3cef5c1d9314d44409644b0dab981024,
+        type: 3}
+      propertyPath: BrokenBlue
+      value: 
+      objectReference: {fileID: 21300000, guid: 678843147fb6bf34eb9cecd9d22f9968,
+        type: 3}
+    - target: {fileID: 353852030690645384, guid: 3cef5c1d9314d44409644b0dab981024,
+        type: 3}
+      propertyPath: BrokenRed
+      value: 
+      objectReference: {fileID: 21300000, guid: 8339ad94ebe57a240828ff8fa42de3c8,
+        type: 3}
     - target: {fileID: 353852030690645387, guid: 3cef5c1d9314d44409644b0dab981024,
         type: 3}
       propertyPath: m_Name
+      value: Green-Brick
+      objectReference: {fileID: 0}
+    - target: {fileID: 353852030690645387, guid: 3cef5c1d9314d44409644b0dab981024,
+        type: 3}
+      propertyPath: m_TagString
       value: Green-Brick
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -1392,6 +1507,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Blue-Brick (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6826152080366093209, guid: 22ed3fa97e920ce4b8b531bd2e157745,
+        type: 3}
+      propertyPath: m_TagString
+      value: Blue-Brick
       objectReference: {fileID: 0}
     - target: {fileID: 6826152080366093213, guid: 22ed3fa97e920ce4b8b531bd2e157745,
         type: 3}
@@ -1453,5 +1573,23 @@ PrefabInstance:
       propertyPath: hitsLimit
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6826152080366093214, guid: 22ed3fa97e920ce4b8b531bd2e157745,
+        type: 3}
+      propertyPath: BrokenGreen
+      value: 
+      objectReference: {fileID: 21300000, guid: 43c1c320f4ed07f48aa79d217c6166e8,
+        type: 3}
+    - target: {fileID: 6826152080366093214, guid: 22ed3fa97e920ce4b8b531bd2e157745,
+        type: 3}
+      propertyPath: BrokenBlue
+      value: 
+      objectReference: {fileID: 21300000, guid: 678843147fb6bf34eb9cecd9d22f9968,
+        type: 3}
+    - target: {fileID: 6826152080366093214, guid: 22ed3fa97e920ce4b8b531bd2e157745,
+        type: 3}
+      propertyPath: BrokenRed
+      value: 
+      objectReference: {fileID: 21300000, guid: 8339ad94ebe57a240828ff8fa42de3c8,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22ed3fa97e920ce4b8b531bd2e157745, type: 3}
