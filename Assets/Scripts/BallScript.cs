@@ -6,6 +6,7 @@ public class BallScript : MonoBehaviour
 {
     public Rigidbody2D rb;
     public float ballForce;
+    bool beforeGameStarted=true;
     // Start is called before the first frame update
     
     void Start()
@@ -17,9 +18,10 @@ public class BallScript : MonoBehaviour
     void Update()
     {
         
-        if(Input.GetKeyUp(KeyCode.Space)){
+        if(Input.GetKeyUp(KeyCode.Space)&&beforeGameStarted){
             transform.SetParent(null);
             rb.isKinematic=false;
+            beforeGameStarted=false;
             rb.AddForce(new Vector2(ballForce,ballForce));
         }
     }
